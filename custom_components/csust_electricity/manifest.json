@@ -1,0 +1,9 @@
+{
+  "domain": "csust_electricity",
+  "name": "CSUST Electricity",
+  "version": "1.0.0",
+  "documentation": "https://github.com/zHElEARN/ha_csust_electricity",
+  "dependencies": [],
+  "codeowners": ["@zHElEARN"],
+  "requirements": ["requests"]
+}
